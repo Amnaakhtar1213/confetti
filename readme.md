@@ -35,7 +35,7 @@ Here's the sign-up page look like:
 ## LIVE DEMO 🌐
 
 Here the quick preview test it yourself:
-[Click here for live-demo]()
+[Click here for live-demo](https://amnaakhtar1213.github.io/confetti/)
 
 ---------------------
 
